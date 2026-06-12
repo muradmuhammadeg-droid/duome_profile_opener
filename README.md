@@ -1,7 +1,7 @@
 ## Duome Profile Opener
 A chrome and edge extension for duolingo that lets you open any duolingo profile on duome.eu by going to a profile page then clicking the duolingo icon floating button at the bottom right
 ## Installation
-Download the folder named "Duome-Shortcut".
+Download the folder named "Duome-Shortcut". you can also download the files, create a folder named "Duome-Shortcut", and moving the files to the new folder.
 Go to chrome or edge.
 <img width="954" height="1116" alt="Screenshot 2026-06-12 152734" src="https://github.com/user-attachments/assets/dd84f206-b7ba-4c98-80b2-5d9e0f0b492d" />
 Cilck on the puzzle icon.
