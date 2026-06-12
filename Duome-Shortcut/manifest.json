@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Duome Profile Opener",
+  "version": "2.4",
+  "description": "Adds a Duome link icon next to the Duolingo display name.",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["icon.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "action": {
+    "default_icon": "icon.png"
+  }
+}
