@@ -22,3 +22,7 @@ Now you have installed the extension! Just give it a try!
 ## Contact Us
 If there's a bug or a Failed to load extension error, contact us via email so we can fix the bug or the error. 
 muradmuhammadeg@gmail.com
+## Preview
+If you want to see what it looks like, here's an example of my profile in duolingo.
+<img width="966" height="1070" alt="Screenshot 2026-06-12 154918" src="https://github.com/user-attachments/assets/db18a04e-8f03-4376-8174-115a445c7961" />
+You will find the floating button in the bottom right.
